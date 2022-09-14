@@ -1,0 +1,11 @@
+Name,Artifact Type,Category,Description,Tags,Classifications,Stewards,Related Terms
+survival,glossary_term,Titanic data,Survival rate| 0 = No| 1 = Yes,,,,
+pclass,glossary_term,Titanic data,Ticket class| 1 = 1st| 2 = 2nd| 3 = 3rd,,,,
+sex,glossary_term,Titanic data,Gender of the passenger,,,,
+age,glossary_term,Titanic data,Age in years,,,,
+sibsp,glossary_term,Titanic data,# of siblings / spouses aboard the Titanic,,,,
+parch,glossary_term,Titanic data,# of parents / children aboard the Titanic,,,,
+ticket,glossary_term,Titanic data,Ticket number,,,,
+fare,glossary_term,Titanic data,Passenger fare,,,,
+cabin,glossary_term,Titanic data,Cabin number,,,,
+embarked,glossary_term,Titanic data,Port of Embarkation| C = Cherbourg| Q = Queenstown| S = Southampton,,,,

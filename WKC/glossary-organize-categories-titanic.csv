@@ -1,0 +1,3 @@
+Name,Artifact Type,Category,Description,Tags,Classifications,Stewards
+Titanic data,category,,Category that organizes all of the data governance artifacts related to Titanic competition.,,,
+Titanic personal data,category,Titanic data,Organizes titanic data related to personal information.,PCI,,
